@@ -1,0 +1,14 @@
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\CryptoPower\CryptoPower\CryptoPower\CryptoPower\bin\Debug\CryptoPower.exe.config
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\CryptoPower\CryptoPower\CryptoPower\CryptoPower\bin\Debug\CryptoPower.exe
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\CryptoPower\CryptoPower\CryptoPower\CryptoPower\bin\Debug\CryptoPower.pdb
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\CryptoPower\CryptoPower\CryptoPower\CryptoPower\obj\Debug\CryptoPower.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\CryptoPower\CryptoPower\CryptoPower\CryptoPower\obj\Debug\CryptoPower.Form1.resources
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\CryptoPower\CryptoPower\CryptoPower\CryptoPower\obj\Debug\CryptoPower.Properties.Resources.resources
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\CryptoPower\CryptoPower\CryptoPower\CryptoPower\obj\Debug\CryptoPower.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\CryptoPower\CryptoPower\CryptoPower\CryptoPower\obj\Debug\CryptoPower.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\CryptoPower\CryptoPower\CryptoPower\CryptoPower\obj\Debug\CryptoPower.exe
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\CryptoPower\CryptoPower\CryptoPower\CryptoPower\obj\Debug\CryptoPower.pdb
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\CryptoPower\CryptoPower\CryptoPower\CryptoPower\bin\Debug\CryptoPower.exe.manifest
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\CryptoPower\CryptoPower\CryptoPower\CryptoPower\bin\Debug\CryptoPower.application
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\CryptoPower\CryptoPower\CryptoPower\CryptoPower\obj\Debug\CryptoPower.exe.manifest
+C:\Users\Alex\Desktop\Eigene Daten\Programme\C#\CryptoPower\CryptoPower\CryptoPower\CryptoPower\obj\Debug\CryptoPower.application
